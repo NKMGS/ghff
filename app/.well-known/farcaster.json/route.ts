@@ -9,7 +9,7 @@ export async function GET() {
       },
       frame: {
         version: '1',
-        name: 'Airdrop',
+        name: 'x100 GEMs',
         iconUrl: 'https://eth4life.vercel.app/logo.png',
         homeUrl: 'https://eth4life.vercel.app',
         imageUrl: 'https://eth4life.vercel.app/logo.png',
